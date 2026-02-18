@@ -265,6 +265,15 @@ a {
   max-width: 486px;
 }
 
+.dir__item--full {
+  flex-direction: row;
+}
+
+.dir__item--full .dir__item-content {
+  max-width: 100%;
+  width: 100%;
+}
+
 .dir__item-title {
   font-size: 36px;
   line-height: 54px;
