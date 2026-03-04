@@ -294,6 +294,10 @@ a {
   padding: 5px 10px;
 }
 
+.structure__link + .structure__link {
+  margin-top: 12px;
+}
+
 .dir__list {
   list-style: none;
 }
